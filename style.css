@@ -1,0 +1,21 @@
+body{
+	/*background-color: white;*/
+	color: light blue;
+}
+h1{
+	color: light blues;
+}
+p,ul{
+	
+	color: black;
+}
+div{
+	padding: 3px;
+	margin: 1.5px;
+	border: 1.5px solid  blue;
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+	height: auto;
+}
